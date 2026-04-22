@@ -1,5 +1,4 @@
-### Retail Analytics & Business Intelligence Solution (RetailX)
-
+### Retail Analytics & Business Intelligence Solution (RetailX
 #### Project Overview
 This project involved building an end-to-end data analytics and business intelligence solution for a simulated South African retail organization. The goal was to integrate, transform, model, and analyze datasets to support decision-making related to sales performance, customer behavior, and regional growth.
 
@@ -20,7 +19,6 @@ Approximately 65% year-over-year revenue growth,
 Identified top-performing regions and product categories.
 
 ### Dashboard Preview
-
 ![Dashboard](screenshots/Summary.png)
 ![Dashboard](screenshots/RevenueOverTime.png)
 ![Dashboard](screenshots/WhereRevenueIsFrom.png)
