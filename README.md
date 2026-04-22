@@ -8,7 +8,6 @@ This project involved building an end-to-end data analytics and business intelli
 
 
 Tools Used
-
 Power BI
 R
 DAX
