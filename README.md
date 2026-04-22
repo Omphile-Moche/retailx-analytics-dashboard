@@ -23,3 +23,6 @@ Identified top-performing regions and product categories
 
 ![Dashboard](screenshots/Summary.png)
 ![Dashboard](screenshots/RevenueOverTime.png)
+![Dashboard](screenshots/WhereRevenueIsFrom.png)
+![Dashboard](screenshots/CustomerInsights.png)
+![Dashboard](screenshots/PerformaneOfProduct.png)
