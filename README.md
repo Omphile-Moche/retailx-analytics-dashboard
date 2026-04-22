@@ -18,3 +18,7 @@ Key Insights
 Approximately 65% year-over-year revenue growth
 41.51% profit margin
 Identified top-performing regions and product categories
+
+### Dashboard Preview
+
+![Dashboard](screenshots/CustomerInsights.png)
