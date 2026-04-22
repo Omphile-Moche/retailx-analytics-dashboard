@@ -21,4 +21,4 @@ Identified top-performing regions and product categories
 
 ### Dashboard Preview
 
-![Dashboard](screenshots/CustomerInsights.png)
+![Dashboard](screenshots/Summary.png)
