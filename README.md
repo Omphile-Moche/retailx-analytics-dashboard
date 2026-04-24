@@ -18,7 +18,7 @@ Approximately 65% year-over-year revenue growth,
 41.51% profit margin,
 Identified top-performing regions and product categories.
 
-### Dashboard Preview
+### Dashboards Preview
 ![Dashboard](screenshots/Summary.png)
 ![Dashboard](screenshots/RevenueOverTime.png)
 ![Dashboard](screenshots/WhereRevenueIsFrom.png)
