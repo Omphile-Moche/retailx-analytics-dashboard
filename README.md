@@ -14,8 +14,8 @@ This project involved building an end-to-end data analytics and business intelli
 • Approximately 65% year-over-year revenue growth, 41.51% profit margin <br>
 • Identified top-performing regions and product categories <br>
 ### Dashboards Preview
-![Dashboard](files/ExecutiveSummary.png)
-![Dashboard]()
+![Dashboard](files/executivesummary.png)
+![Dashboard](files/customerinsights.png)
 ![Dashboard]()
 ![Dashboard]()
 ![Dashboard]()
