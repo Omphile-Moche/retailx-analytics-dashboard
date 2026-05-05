@@ -15,7 +15,7 @@ This project involved building an end-to-end data analytics and business intelli
 • Identified top-performing regions and product categories <br>
 ### Dashboards Preview
 ![Dashboard](files/executive-summay.png)
-![Dashboard](files/customerinsights.png)
-![Dashboard]()
-![Dashboard]()
-![Dashboard]()
+![Dashboard](files/revenue-over-time.png)
+![Dashboard](files/revenue-by-segment.png)
+![Dashboard](files/customer-insights.png)
+![Dashboard](files/product-performance.png)
