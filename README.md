@@ -2,7 +2,7 @@
 ### Project Overview
 This project involved building an end-to-end data analytics and business intelligence solution for a simulated South African retail organization. The goal was to integrate, transform, model, and analyze datasets to support decision-making related to sales performance, customer behavior, and regional growth.
 ### Tools Used
-• Power BI
+• Power BI,,,
 • R
 • DAX
 ### Key Tasks Performed
@@ -15,8 +15,8 @@ Approximately 65% year-over-year revenue growth,
 41.51% profit margin,
 Identified top-performing regions and product categories.
 ### Dashboards Preview
-![Dashboard](screenshots/Summary.png)
-![Dashboard](screenshots/RevenueOverTime.png)
-![Dashboard](screenshots/WhereRevenueIsFrom.png)
-![Dashboard](screenshots/CustomerInsights.png)
-![Dashboard](screenshots/PerformanceOfProduct.png)
+![Dashboard]()
+![Dashboard]()
+![Dashboard]()
+![Dashboard]()
+![Dashboard]()
