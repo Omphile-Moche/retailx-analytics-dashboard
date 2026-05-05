@@ -5,18 +5,15 @@ This project involved building an end-to-end data analytics and business intelli
 Power BI,
 R, 
 DAX.
-
-#### Key Tasks Performed
+### Key Tasks Performed
 Built interactive Power BI dashboards to analyze sales performance, customer behavior, and regional trends
 Designed a star schema data model.
 Developed DAX measures for revenue, profit, and growth metrics.
 Performed data cleaning and transformation using Power BI and R.
-
-#### Key Insights
+### Key Insights
 Approximately 65% year-over-year revenue growth,
 41.51% profit margin,
 Identified top-performing regions and product categories.
-
 ### Dashboards Preview
 ![Dashboard](screenshots/Summary.png)
 ![Dashboard](screenshots/RevenueOverTime.png)
