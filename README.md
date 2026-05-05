@@ -11,9 +11,8 @@ This project involved building an end-to-end data analytics and business intelli
 • Developed DAX measures for revenue, profit, and growth metrics <br>
 • Performed data cleaning and transformation using Power BI and R <br>
 ### Key Insights
-• Approximately 65% year-over-year revenue growth,
-41.51% profit margin
-• Identified top-performing regions and product categories.
+• Approximately 65% year-over-year revenue growth, 41.51% profit margin <br>
+• Identified top-performing regions and product categories <br>
 ### Dashboards Preview
 ![Dashboard]()
 ![Dashboard]()
